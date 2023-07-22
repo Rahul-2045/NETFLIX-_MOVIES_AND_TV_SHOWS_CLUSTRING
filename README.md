@@ -12,25 +12,25 @@ This project aims to analyze Netflix's movie and TV show catalog, cluster the co
  
 # 1.Data Preparation:
    
-   source of data - dataset has been provided by alma-better.
+  source of data - dataset has been provided by alma-better.
 
-   challenges we faced in the dataset is that the data is provided in the Unicode form and we have to decode it first for that we used the Unicode_escape encoding technique to read the 
-   data from CSV.
+  challenges we faced in the dataset is that the data is provided in the Unicode form and we have to decode it first for that we used the Unicode_escape encoding technique to read the 
+  data from CSV.
 
-    This phase involves collecting and preprocessing the data required for clustering. It includes steps such as data collection from Netflix's library, cleaning the data by handling 
-    missing values or duplicates, and transforming the data into a suitable format for analysis. 
+  This phase involves collecting and preprocessing the data required for clustering. It includes steps such as data collection from Netflix's library, cleaning the data by handling 
+  missing values or duplicates, and transforming the data into a suitable format for analysis. 
 
 # 2. Exploratory Data Analysis (EDA):
    
-   EDA is conducted to gain insights into the dataset and understand the underlying patterns and characteristics of the movies and TV shows. It involves descriptive statistics, data 
-   visualization, and exploring relationships between different attributes such as ratings, genres, and release years. EDA helps in identifying potential features for clustering and 
-   understanding the distribution of data.
+  EDA is conducted to gain insights into the dataset and understand the underlying patterns and characteristics of the movies and TV shows. It involves descriptive statistics, data 
+  visualization, and exploring relationships between different attributes such as ratings, genres, and release years. EDA helps in identifying potential features for clustering and 
+  understanding the distribution of data.
  
 # 3. Model Selection: -
    
-    Two clustering algorithms, K-Means and Agglomerative Hierarchical clustering, are employed to create distinct clusters. The attributes are tokenized and vectorized using the TFIDF 
-    vectorizer. To address dimensionality, Principal Component Analysis (PCA) is applied. The optimal number of clusters is determined using methods like the elbow method, silhouette 
-    score, and dendrogram.
+  Two clustering algorithms, K-Means and Agglomerative Hierarchical clustering, are employed to create distinct clusters. The attributes are tokenized and vectorized using the TFIDF 
+  vectorizer. To address dimensionality, Principal Component Analysis (PCA) is applied. The optimal number of clusters is determined using methods like the elbow method, silhouette 
+  score, and dendrogram.
  
 # 4. Model Evaluation: -
 
@@ -41,3 +41,8 @@ This project aims to analyze Netflix's movie and TV show catalog, cluster the co
   optimizing their content library to meet user expectations. The code provided in this project serves as a foundation for implementing Netflix Movies and TV Shows Clustering, and it can 
   be further customized and expanded to meet specific requirements and objectives. Please refer to the documentation and code for detailed instructions on how to use and adapt the project 
   for your own needs.
+
+  For complete project video explaination and to downoad the dataset: 
+  sharing Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings. 
+  Connect with me on www.linkedin.com/in/rahul-verma-
+  Happy Learning!
