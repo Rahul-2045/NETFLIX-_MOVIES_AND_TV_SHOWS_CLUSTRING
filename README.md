@@ -43,6 +43,9 @@ This project aims to analyze Netflix's movie and TV show catalog, cluster the co
   for your own needs.
 
   For complete project video explaination and to downoad the dataset: 
-  sharing Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings. 
+  
+  sharing Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
+  
   Connect with me on www.linkedin.com/in/rahul-verma-
+  
   Happy Learning!
